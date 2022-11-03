@@ -1,1 +1,1 @@
-FROM ubuntu:latest
+FROM ubuntu:kinetic-20220830
